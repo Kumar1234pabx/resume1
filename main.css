@@ -1,0 +1,39 @@
+html{
+                font-size: 22px;
+            }
+
+body{
+                background-color: #333;
+                color: whitesmoke;
+                
+            }
+a{
+    color: aliceblue;
+}
+a:visited{
+    color: aquamarine;
+}
+h1{
+    color: rgb(199, 229, 255);
+    font-size: 60px;
+}
+p{font-size: 30px;}
+h2{
+    font-size: 40px;
+}
+
+ol{
+    font-size: 25px;
+}
+ul{
+    font-size: 25px;
+}
+dl{
+    font-size: 25px;
+}
+
+
+
+th{
+            font-size: 1.2em;
+}
